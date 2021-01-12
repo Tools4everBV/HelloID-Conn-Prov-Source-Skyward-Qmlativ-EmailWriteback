@@ -1,0 +1,66 @@
+[
+  {
+    "key": "BaseURI",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Base URI",
+      "required": true
+    }
+  },
+  {
+    "key": "ClientKey",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Client Key",
+      "required": true
+    }
+  },
+  {
+    "key": "ClientSecret",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Client Secret",
+      "type": "password",
+      "required": true
+    }
+  },
+  {
+    "key": "PageSize",
+    "type": "input",
+    "defaultValue": "500",
+    "templateOptions": {
+      "label": "Page Size",
+      "required": true
+    }
+  },
+  {
+    "key": "Entityid",
+    "type": "input",
+    "defaultValue": "1",
+    "templateOptions": {
+      "label": "Entity Id",
+      "required": true
+    }
+  },
+  {
+    "key": "SchoolYearId",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "School Year Id",
+      "required": false
+    }
+  },
+  {
+    "key": "FiscalYearId",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "Fiscal Year Id",
+      "required": false
+    }
+  }
+]
