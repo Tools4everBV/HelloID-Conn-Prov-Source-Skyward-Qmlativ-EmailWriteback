@@ -1,4 +1,4 @@
-# HelloID-Conn-Prov-Source-Skyward-QmlativEmailWriteback
+# HelloID-Conn-Prov-Source-Skyward-Qmlativ-EmailWriteback
 Update email for record in Skyward Qmlativ
 
 <!-- GETTING STARTED -->
