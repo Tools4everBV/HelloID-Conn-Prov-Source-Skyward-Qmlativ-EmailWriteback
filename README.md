@@ -23,5 +23,5 @@ To create a Secured User account within the Skyward database for your ClassLink 
  8. Click Generate New key.
  9. Record the values for the Key and Secret.
  
- 
-
+ # HelloID Docs
+The official HelloID documentation can be found at: https://docs.helloid.com/
